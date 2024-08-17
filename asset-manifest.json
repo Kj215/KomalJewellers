@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kj215/KomalJewellers.git/static/css/main.3ff96088.css",
+    "main.js": "/Kj215/KomalJewellers.git/static/js/main.ddd44dc4.js",
+    "static/js/453.66015381.chunk.js": "/Kj215/KomalJewellers.git/static/js/453.66015381.chunk.js",
+    "static/media/Hallmark.svg": "/Kj215/KomalJewellers.git/static/media/Hallmark.1a71323c86e6546d717d2b557e7e0780.svg",
+    "index.html": "/Kj215/KomalJewellers.git/index.html",
+    "main.3ff96088.css.map": "/Kj215/KomalJewellers.git/static/css/main.3ff96088.css.map",
+    "main.ddd44dc4.js.map": "/Kj215/KomalJewellers.git/static/js/main.ddd44dc4.js.map",
+    "453.66015381.chunk.js.map": "/Kj215/KomalJewellers.git/static/js/453.66015381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff96088.css",
+    "static/js/main.ddd44dc4.js"
+  ]
+}
