@@ -15,21 +15,11 @@
     transform: translateY(-10px);
   }
   
-  .card img {
- 
-  }
-  
-  .card .item-name {
-
-  }
   
   .card .details {
     color: #555;
   }
-  
-  .card .details div {
 
-  }
   .print-button {
     margin: 20px;
     padding: 10px 20px;
